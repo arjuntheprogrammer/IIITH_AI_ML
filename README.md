@@ -134,3 +134,11 @@ https://iiith-talentsprint.trainmoo.in/applite/grades
 |M3_W12_CT_1 - 06/09/2019 | 6 | 6 | 100.00%|
 |M3_W11_H_3 - 06/09/2019 | 39| 50 | 78.00%|
 |M3_W12_CT_2 - 06/09/2019 | 9 | 9 | 100.00%|
+
+## Certificate
+![IMG_3602](https://user-images.githubusercontent.com/15984084/69566512-45b68500-0fdd-11ea-8658-4db5c03a00a9.jpg)
+![IMG_3603](https://user-images.githubusercontent.com/15984084/69566509-45b68500-0fdd-11ea-8b75-48184d2289dc.jpg)
+
+
+## Group Picture
+![AIML BLR B8 Class Photo](https://user-images.githubusercontent.com/15984084/69566518-4818df00-0fdd-11ea-9002-def267dad19f.jpg)
