@@ -4,8 +4,57 @@ https://iiith-aiml.talentsprint.com/dashboard
 
 ## Modules
 1. Python Essentials for AI/ML
+    * Intro to Python
+    * String, list & for Loop
+    * List Comprehensions & files
+    * Indentation & Code Blockingcurrent section
+
 2. Maths Essentials for AI/ML
+    1. Linear Algebra
+        * Vectors, what even are they? https://www.youtube.com/watch?v=fNk_zzaMoSs
+        * Linear combinations, span, and basis vectors https://www.youtube.com/watch?v=k7RM-ot2NWY
+        * Linear transformations and matrices https://www.youtube.com/watch?v=kYB8IZa5AuE
+        * Dot products and duality https://www.youtube.com/watch?v=LyGKycYT2v0
+        * Change of basis https://www.youtube.com/watch?v=P2LTAUO1TdA
+        * Eigenvectors and Eigenvalues https://www.youtube.com/watch?v=PFDu9oVAE-g
+    2. Calculus
+        * Essence of calculus https://www.youtube.com/watch?v=WUvTyaaNkzM
+        * The paradox of the derivative https://www.youtube.com/watch?v=9vKqVkMQHKk
+        * Derivative formulas through geometry https://www.youtube.com/watch?v=S0_qX4VJhMQ
+        * Visualizing the chain rule and product rule https://www.youtube.com/watch?v=YG15m2VwSjA
+    3. Statistics
+        * Measures of Center
+        * Measures of Spread
+    4. Probabolity
+        * Addition Rule
+        * Multiplication Rule
+        * Conditional Probability
+        
 3. M0: Getting Ready
+	1. Terminology and Definitions
+		* What is Machine Learning?
+		* Question: How are Artificial Intelligence, Machine Learning and other things related?
+		* Question: Where does Data Science fit in all this? Are different skills required for it?
+		* Visuals
+		* ML Glossary - https://developers.google.com/machine-learning/glossary
+	2. Fundamental Abstraction
+		* Ploblem Space
+		* ML Frameworks
+		* Spam Detection
+		* Training
+		* Testing
+	3. ML Avatars
+		* The Machine Learning Framework
+		* Spam Detection
+		* Medical Diagnosis
+		* Stock Trading
+		* Sentiment Analysis
+		* Disease Confirmation
+		* Product Recommendation
+		* Loan Approval
+		* Face Recognition
+		* Voice Detection
+
 4. M1: Problem Formulation and Solving
     * Formulating Real World Problems for AI/ML
     * Classification and Regression Problems
