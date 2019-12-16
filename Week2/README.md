@@ -58,12 +58,14 @@
 ## 17th March 2019
 
 Lectures:
-1. Lecture 1: Representing Text and Language
-2. Lecture 2: Perceptrons, Neural Networks, Gradient Descent
-3. Lecture 3.Learning Representations: Word2Vec
-4. Lecture 4.Dimensionality Reduction
+
+	1. Lecture 1: Representing Text and Language
+	2. Lecture 2: Perceptrons, Neural Networks, Gradient Descent
+	3. Lecture 3.Learning Representations: Word2Vec
+	4. Lecture 4.Dimensionality Reduction
 
 Other Topics:
+
 	* Representing Text and Language
 	* Perceptrons, Neural Networks, Gradient Descent
 	* Learning Representations: Word2Vec
@@ -81,10 +83,11 @@ Other Topics:
 ---
 
 Datasets:
-1. CIFAR-10 Dataset 
-2. IRIS Dataset 
-3. MNIST Dataset 
-4. Fashion MNIST Dataset 
+
+	1. CIFAR-10 Dataset 
+	2. IRIS Dataset 
+	3. MNIST Dataset 
+	4. Fashion MNIST Dataset 
 
 
 ---
