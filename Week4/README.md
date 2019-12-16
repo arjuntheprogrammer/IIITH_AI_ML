@@ -35,18 +35,55 @@
         * Deep features - To be determined by experiments
 
 
-
-
 --- 
 
 
 ## 13th April 2019
-
+Experiments:
+1. Expt 8: MNIST-MLP Expt 
+2. Expt 9: Celebrity Faces - PCA 
+3. Expt 10: CIFAR-100	
+4. Expt 11: Eigenfaces for classification 
+5. Expt 12: Speech-""Yes""/""No"" Classifier"
 
 
 --- 
 
 
 ## 14th April 2019
+* Class Test Ind. Lec 2: Visualization; Demo Lec 2: Cloud APIs	
+* "Individual Lab : Expt 13: Visualization - TSNE Expt 14: Visualization - ISOMAP Expt 15: Alexa API Experiments"
+
+--- 
+
+
+
+--- 
+
+
+## 20th April 2019
+* Hackathon
+
+
+--- 
+
+
+## 21th April 2019
+
+--- 
+
+
+
+--- 
+
+
+## 27th April 2019
+
+
+
+--- 
+
+
+## 28th April 2019
 
 --- 

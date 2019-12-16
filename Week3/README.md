@@ -11,6 +11,10 @@
 	* Principal Component Analysis
 	* Covariance
 
+Experiments:
+1. Expt 1: Newsgroups: Bow; 
+2. Expt 2: Newsgroups: nGrams;	
+
 ---
 
 ## 24th March 2019
@@ -41,6 +45,11 @@
 * ROC Curves and Misclassification Costs.
 * How to use 2-class measures for multi-class
 * Multi-class problems - Confusion matrix
+
+Experiments:
+1. Expt 5: Newsgroups: Word2Vec; 
+2. Expt 6: Linear Classifier; 
+3. Expt 7: Applying other metrics for Newsgroups
 
 
 ---
