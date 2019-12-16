@@ -100,14 +100,14 @@ https://iiith-aiml.talentsprint.com/dashboard
 |Sunday,14-Apr-19|Class Test Ind. Lec 2: Visualization; Demo Lec 2: Cloud APIs | "Individual Lab : Expt 13: Visualization - TSNE Expt 14:  Visualization - ISOMAP Expt 15: Alexa API Experiments"|
 | Saturday,20-Apr-19|Hackathon | Hackathon |
 |Sunday,21-Apr-19|09. Convolutional Layer 10. Back Propagation | 11. ML Pipeline 12. Overfitting and Generalization |
-| Saturday,27-Apr-19|Expt 16: Leave one out Validation Expt 17: K-fold Validation Expt | 18: Polynomial Curve Fitting |
+| Saturday,27-Apr-19|Expt 16: Leave one out Validation Expt 17: K-fold Validation | Expt 18: Polynomial Curve Fitting |
 |Sunday,28-Apr-19|Class Test Ind. Lec 3: Clustering Demo Lec 3: PyTorch | Expt 19: K-Means Expt 20: Hierarchical Clustering Expt 21: Fashion MNIST;  Expt 22: Polynomial curve fitting Expt 23: Instrumenting CNN |
 | Saturday,04-May-19|Mini-Hackathon | Mini-Hackathon |
 |Sunday,05-May-19|Class Test; 13. Random Forests, Ensemble Techniques 14. Support Vector Machines | 15. Time Series/RNN 16. Human in the Loop Systems |
 | Saturday,11-May-19|Expt 24: SVM, SVM with kernels Expt 25: Face recognition with SVM Expt 26: Random Forests, Ensemble Methods | Expt 27: Weather Prediction Expt 28: Rocchio's algorithm|
-|Sunday,12-May-19|Class Test Ind. Lec 4: Recommendation Systems Demo Lec 4: Timeseries Application | Ind. Lec 5: Deployment, Practical Issues; Expt 29: Movie Recommendation system Expt 30: TBD Expt 31: TBD |
+|Sunday,12-May-19|Class Test Ind. Lec 4: Recommendation Systems Demo Lec 4: Timeseries Application | Ind. Lec 5: Deployment, Practical Issues; Expt 29: Movie Recommendation system KNN Expt 30: Movie Recommendation system SVD KNN Expt 31: Alexa Chatbot |
 | Saturday,18-May-19|Hackathon | Hackathon |
-|Sunday,19-May-19|Lecture Sessions : Class Test; 17. Convolutional Neural Networks; 18. Autoencoders	Lexture Sessions : 19. Appreciating CNNs; 20.  |RNN, LSTM, GRU |
+|Sunday,19-May-19|Lecture Sessions : Class Test; 17. Convolutional Neural Networks; 18. Autoencoders	Lexture Sessions : 19. Appreciating CNNs; | 20. RNN, LSTM, GRU |
 |Saturday,25-May-19|Expt 32: Transfer learning and Finetuning  | Expt 33: Visualization of CNNs |
 |Sunday,26-May-19|Class Test Lecture 5: Model Compression; Demo: Deployment, Practical Issues| 	"Expt 37: Uniform and Non Uniform Quantizations; Expt 38: Student and Teacher Networks; Expt 39: Weight Intializations and updates"|
 | Saturday,01-Jun-19|Mini-Hackathon | Mini-Hackathon |

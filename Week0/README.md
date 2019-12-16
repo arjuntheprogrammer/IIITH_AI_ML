@@ -1,12 +1,3 @@
-## 2nd and 3rd March 2019
-* Introduction to Python - Part 1
-* Overview of Python - Part 1
-* Overview of Python - Part 2
-* Demystifying ML
-* Class Test Evening
-
----
-
 ### Maths Essentials for AI/ML
 1. Linear Algebra
     * Vectors, what even are they? https://www.youtube.com/watch?v=fNk_zzaMoSs
@@ -42,3 +33,13 @@
 4. Indentation & Code Blockingcurrent section
 
 ---
+
+## 2nd and 3rd March 2019
+* Introduction to Python - Part 1
+* Overview of Python - Part 1
+* Overview of Python - Part 2
+* Demystifying ML
+* Class Test Evening
+
+---
+
