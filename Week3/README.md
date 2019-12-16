@@ -31,20 +31,20 @@ Experiments:
 	* Precision and Recall are useful for the designer of the retrieval system
 	* Trade-Off
 
-
-* Accuracy Metrics
-* Precision and Recall
-* Problem of Retrieval
-* Numerical problem: Precision and recall
-* Solution: Precision and recall
-* PR curves
-* Precision and Recall
-* ROC + PR Curves Example
-* F-measure: Combines Precision and Recall
-* Utility and Cost
-* ROC Curves and Misclassification Costs.
-* How to use 2-class measures for multi-class
-* Multi-class problems - Confusion matrix
+Other Topics:
+	* Accuracy Metrics
+	* Precision and Recall
+	* Problem of Retrieval
+	* Numerical problem: Precision and recall
+	* Solution: Precision and recall
+	* PR curves
+	* Precision and Recall
+	* ROC + PR Curves Example
+	* F-measure: Combines Precision and Recall
+	* Utility and Cost
+	* ROC Curves and Misclassification Costs.
+	* How to use 2-class measures for multi-class
+	* Multi-class problems - Confusion matrix
 
 Experiments:
 1. Expt 5: Newsgroups: Word2Vec; 

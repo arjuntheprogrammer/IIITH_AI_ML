@@ -32,7 +32,28 @@
 	* Linear Regression
 	* Drew a plot for x and y for linear regression
 	* Moving towards gradient descent
-	* Mini_Hackathon
+**Mini_Hackathon**:
+* We will be using district wise demographics, enrollments, school and teacher indicator data to predict whether the literacy rate is high / medium / low in each district.
+* At the end of this experiment, you will be able to: Perform Data preprocessing
+* Data preprocessing is an important step of solving every machine learning problem. Most of the datasets used with Machine Learning problems need to be processed / cleaned / transformed so that a Machine Learning algorithm can be trained on it.
+
+* There are different steps involved for Data Preprocessing. These steps are as follows:
+	1. Data Cleaning → In this step the primary focus is on
+		*Handling missing data
+		* Handling nosiy data
+		* Detection and removal of outliers
+	2. Data Integration → This process is used when data is gathered from various data sources
+	and data are combined to form consistent data. This data after performing cleaning is used
+	for analysis.
+	3. Data Transformation → In this step we will convert the raw data into a specified for-
+	mat according to the need of the model we are building. There are many options used for
+	transforming the data as below:
+		* Normalization
+		* Aggregation
+		* Generalization
+	4. Data Reduction → After data transformation and scaling the redundancy within the data is removed and efficiently organizing the data is performed.
+
+
 
 ## 17th March 2019
 
