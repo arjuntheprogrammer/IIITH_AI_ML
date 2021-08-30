@@ -7,7 +7,7 @@ https://iiith-aiml.talentsprint.com/dashboard
     * Intro to Python
     * String, list & for Loop
     * List Comprehensions & files
-    * Indentation & Code Blockingcurrent section
+    * Indentation & Code Blocking
 
 2. Maths Essentials for AI/ML
     1. Linear Algebra
@@ -25,7 +25,7 @@ https://iiith-aiml.talentsprint.com/dashboard
     3. Statistics
         * Measures of Center
         * Measures of Spread
-    4. Probabolity
+    4. Probability
         * Addition Rule
         * Multiplication Rule
         * Conditional Probability
@@ -38,7 +38,7 @@ https://iiith-aiml.talentsprint.com/dashboard
 		* Visuals
 		* ML Glossary - https://developers.google.com/machine-learning/glossary
 	2. Fundamental Abstraction
-		* Ploblem Space
+		* Problem Space
 		* ML Frameworks
 		* Spam Detection
 		* Training
@@ -69,7 +69,7 @@ https://iiith-aiml.talentsprint.com/dashboard
     * Gradient Descent and Backpropagation
     * Decision Trees, Random Forest, and Ensembles
     * Principles and Practice of ML
-    * Support Vector Mahines and Kernels
+    * Support Vector Machines and Kernels
 
 6. M3: Deep Learning and Practical Issues
     * Introduction of Deep Learning and Toolchain
